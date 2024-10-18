@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #0a1321;
+}
+
+.conteudo-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.conteudo-nomes {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.myservices {
+    color: #fff;
+    text-align: start;
+   
+    margin-right:9.5%;
+
+}
+
+.help {
+    color: #d9c884;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+.conteudo-vei{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pai{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+   
+  
+}
+.filho1{
+    margin-top: 200px;
+    display: flex;
+   flex-direction: column;
+   
+   margin-left: 200px;
+
+}
+
+.portfolio{
+
+display: flex;
+    color: #fff;
+    text-align: start;
+    font-family: sans-serif light300;
+
+}
+.projects{
+    
+    display: flex;
+color:  #d9c884;
+}
+.filho2{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.filho3{
+   
+    
+}
