@@ -75,3 +75,18 @@ color:  #d9c884;
    
     
 }
+.carrosel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height:10%;
+width: 10% ;
+object-fit: cover;
+    
+}
+.foto1{
+
+    width: 100px; 
+    height: 100px; 
+    object-fit: cover;
+}
